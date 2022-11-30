@@ -1,0 +1,328 @@
+
+.main{
+    background: #F5F5F5;
+
+}
+
+.baner
+{
+width: 100%;
+height: 284px;
+background-color: #2C9564;
+background: linear-gradient(99.54deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 72.01%), #2C9564;
+}
+
+.maintext
+{
+
+    position: absolute;
+    width: 175px;
+    height: 88px;
+    right: 30px;
+    top: 178px;
+    
+    font-family: 'Shabnam';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 88px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    
+    /* White */
+    
+    color: #FAFAFA;
+
+}
+
+.next1
+{
+    text-align: center;
+    text-decoration: none;
+font-family: 'Shabnam';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #2C9564;
+padding-top: 35px;
+}
+.keyword
+{
+    color:#999999;
+    background-color: #eeeeee;
+    margin-right: 8px;
+    padding: 8px;
+    border-radius: 22px;
+}
+
+.e1
+{
+    position: absolute;
+width: 36px;
+height: 36px;
+left: 24px;
+top: 200px;
+
+background: rgba(250, 250, 250, 0.3);
+border-radius: 6px;
+}
+
+.ei1
+{
+    position: absolute;
+ top: 20%;
+ left: 20%;    
+ width: 22px;
+ height: 22px;
+    color: #EEEEEE;
+}
+
+.e2
+{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 24px;
+    top: 244px;
+    
+    background: rgba(250, 250, 250, 0.3);
+    border-radius: 6px;
+}
+
+.ei2
+{
+    position: absolute;
+    top: 20%;
+ left: 20%;    
+ width: 22px;
+ height: 22px;
+    color: #EEEEEE;
+
+}
+
+.e3
+{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 24px;
+    top: 288px;
+    background: rgba(250, 250, 250, 0.3);
+    border-radius: 6px;
+}
+
+.ei3
+{
+    position: absolute;
+    top: 20%;
+ left: 20%;    
+ width: 22px;
+ height: 22px;
+    color: #EEEEEE;
+}
+
+#search
+{
+    width: 250px;
+}
+
+#dro
+{
+    position: absolute;
+width: 35px;
+height: 19px;
+left: 70px;
+top: 10px;
+}
+
+.mainlink
+{
+width: 400px;
+height: 28px;
+right: 30px;
+top: 140px;
+font-family: 'Shabnam';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+direction: rtl;
+display: flex;
+align-items: center;
+text-align: right;
+color: #999999;
+}
+
+#pagenumber0
+{
+    box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+left: 783px;
+top: 2244px;
+
+/* White */
+
+background: #FAFAFA;
+/* Gray c */
+
+border: 1.5px solid #CCCCCC;
+border-radius: 20px;
+}
+
+#pagenumber1
+{
+width: 40px;
+height: 40px;
+left: 735px;
+top: 2244px;
+
+/* Green/Green 100 */
+
+background: #2C9564;
+border-radius: 20px;
+}
+
+#pagenumber2
+{
+    box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+left: 687px;
+top: 2244px;
+
+/* White */
+
+background: #FAFAFA;
+/* Gray c */
+
+border: 1.5px solid #CCCCCC;
+border-radius: 20px;
+}
+
+#pagenumber3
+{
+    box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+left: 639px;
+top: 2244px;
+
+/* White */
+
+background: #FAFAFA;
+/* Gray c */
+
+border: 1.5px solid #CCCCCC;
+border-radius: 20px;
+}
+
+#pagenumber4
+{
+    box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+left: 591px;
+top: 2244px;
+
+/* White */
+
+background: #FAFAFA;
+/* Gray c */
+
+border: 1.5px solid #CCCCCC;
+border-radius: 20px;
+}
+
+#pagenumber5
+{
+    box-sizing: border-box;
+
+width: 40px;
+height: 40px;
+left: 591px;
+top: 2244px;
+
+
+background: #FAFAFA;
+
+border: 1.5px solid #CCCCCC;
+border-radius: 20px;
+}
+
+#pgn
+{
+top: 5px;
+left: 15px; 
+}
+
+
+.pan
+{
+    top: 150px;
+    left:10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.rapid-access li{
+    margin-left:50px
+}
+
+
+.end
+{
+    position: absolute;
+width: 350px;
+height: 28px;
+right: 600px;
+top: 287px;
+
+/* Body */
+
+font-family: 'Shabnam';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 28px;
+/* identical to box height, or 200% */
+
+text-align: right;
+
+/* Gray 3 */
+
+color: #666666;
+
+}
+
+.up
+{
+    position: fixed;
+    left: 96%;
+    bottom: 30px;
+}
+
+#lc
+{
+    color: black;
+}
+
+#fs1
+{
+    margin-right:0%;
+}
+

@@ -1,0 +1,73 @@
+.rapid-access li{
+    margin-left:50px
+}
+
+.up
+{
+    position: fixed;
+    left: 96%;
+    bottom: 30px;
+}
+
+#kword
+{
+    background: #EEEEEE;
+border-radius: 22px;
+}
+
+.t3
+{
+    font-family: 'Shabnam';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 36px;
+/* or 200% */
+
+text-align: right;
+
+/* Gray 3 */
+
+color: #666666;
+
+}
+
+#t1
+{
+    font-family: 'Shabnam';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: right;
+
+/* Gray 3 */
+
+color: #666666;
+}
+
+.t2
+{
+    font-family: 'Shabnam';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Black */
+
+color: black;
+}
+
+
+#lc
+{
+    color: black;
+}
